@@ -9,3 +9,5 @@
     localStorage.setItem("on_load_counter", n);
 
     document.getElementById('counter').innerHTML = n;
+
+    
