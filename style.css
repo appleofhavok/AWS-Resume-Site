@@ -1,4 +1,4 @@
-.topnav { background-color: lemonchiffon;
+.topnav { background-color: burlywood;
     overflow: hidden;
     font-size: medium;
 }
@@ -6,4 +6,7 @@ body{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida
 }
 visit-counter{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
+}
+body{
+    background-color: dimgray;
 }
